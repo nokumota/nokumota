@@ -1,59 +1,55 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nokumota/nokumota/main/assets/jubilee-banner.svg" alt="Jubilee Mode — Code in Color" width="100%" />
+  <img src="https://raw.githubusercontent.com/nokumota/nokumota/main/assets/jubilee-banner.svg" alt="Jubilee Mode — warm sparks and bright code" width="100%" />
 </p>
 
-<h1 align="center">⚡ Hi, I’m <code>nokumota</code></h1>
-
-<p align="center">
-  <em>Turning curiosity into bright little explosions of code.</em><br />
-  <sub>Jubilee-inspired profile · neon energy · zero beige</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-POWERING%20UP-ff2bbf?style=for-the-badge&labelColor=16002d" alt="Status: powering up" />
-  <img src="https://img.shields.io/badge/BUILD-SOMETHING%20BRIGHT-00d9ff?style=for-the-badge&labelColor=16002d" alt="Build something bright" />
-</p>
-
----
-
-### ✦ Mutant abilities
-
-```text
-⚡ ENERGY BLASTS   → turning ideas into working things
-🕹️ ARCADE INSTINCT → learning by building and iterating
-🌈 NEON VISION     → bringing personality into every project
-```
-
-### 🧪 Current mission
-
-> Building, learning, and collecting the right tools for the next adventure.
-
-- 🔭 I’m working on: **something that deserves a little sparkle**
-- 🌱 I’m learning: **one commit at a time**
-- 💬 Ask me about: **ideas, experiments, and internet rabbit holes**
-- ⚡ Fun fact: **the README is the entrance to the X-Mansion**
-
-### 🕹️ Loadout
+<h1>Привіт, я <code>nokumota</code> ✨</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-16002d?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Build_in_public-ff2bbf?style=flat-square&logo=sparkfun&logoColor=ffffff" alt="Build in public" />
-  <img src="https://img.shields.io/badge/Keep_it_neon-00d9ff?style=flat-square&logo=lightning&logoColor=16002d" alt="Keep it neon" />
+  Тут живуть цікаві ідеї, маленькі експерименти та код із характером.
+  Натхнення — тепла, добра енергія Джубілі: трохи сонця, трохи хаосу і багато цікавості.
 </p>
 
-### ✨ Energy report
+<p>
+  <img src="https://img.shields.io/badge/настрій-сонячний-F7BD31?style=for-the-badge&labelColor=693C63" alt="Настрій: сонячний" />
+  <img src="https://img.shields.io/badge/режим-будую%20і%20вчуся-EA9A78?style=for-the-badge&labelColor=693C63" alt="Режим: будую і вчуся" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nokumota&show_icons=true&hide_border=true&bg_color=0d001b&title_color=ffe600&icon_color=ff2bbf&text_color=f7f7ff&ring_color=00d9ff" alt="GitHub stats for nokumota" />
+## 🌼 Зараз у моєму полі зору
+
+- ⚡ перетворюю цікаві думки на маленькі проєкти;
+- 🌱 вчуся через практику, помилки й нові спроби;
+- 🧡 збираю інструменти, що роблять роботу приємнішою;
+- 🎮 залишаю місце для гри та експериментів.
+
+## ✦ Мій набір суперсил
+
+| Іскра | Як вона працює |
+| :-- | :-- |
+| **Допитливість** | Ставлю запитання й докопуюся до суті. |
+| **Творчий хаос** | Шукаю неочевидні, але живі рішення. |
+| **Послідовність** | Рухаюся маленькими кроками, зате регулярно. |
+| **Тепла енергія** | Роблю проєкти, якими хочеться ділитися. |
+
+## 🧰 У лоадауті
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-3A263C?style=flat-square&logo=github&logoColor=fff7e8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/curiosity-F7BD31?style=flat-square&logo=sparkfun&logoColor=3A263C" alt="Curiosity" />
+  <img src="https://img.shields.io/badge/keep_it_warm-EA9A78?style=flat-square&logo=lightning&logoColor=fff7e8" alt="Keep it warm" />
+</p>
+
+## 📊 GitHub-пульс
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nokumota&show_icons=true&hide_border=true&bg_color=fff0e8&title_color=693c63&icon_color=e99a2d&text_color=3a263c&ring_color=f7bd31" alt="GitHub-статистика nokumota" />
 </p>
 
 <p align="center">
-  <strong>✦ Code loud. Stay curious. Leave a little color behind. ✦</strong>
+  <strong>✦ Будуй із цікавістю. Ділись із теплом. Лишай трохи іскор. ✦</strong>
 </p>
 
 <!--
-Want to make this profile more personal?
-- Replace the Current mission bullets with your real projects and interests.
-- Add links below: [Portfolio](...) · [LinkedIn](...) · [Email](mailto:...)
-- Add actual language/framework badges once you choose your stack.
+Хочеш доповнити профіль?
+- Додай сюди реальні проєкти, технології та посилання на свої соцмережі.
+- Заміни пункти в блоці «Зараз у моєму полі зору» на власні цілі.
 -->

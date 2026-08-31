@@ -1,19 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Jubilee mode — code in color</title>
-  <desc id="desc">An original neon graphic with colorful energy bursts.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Jubilee mode — warm sparks and bright code</title>
+  <desc id="desc">Original warm peach illustration with sun-yellow, plum, and lavender energy motifs.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16002d"/><stop offset=".55" stop-color="#090019"/><stop offset="1" stop-color="#001d35"/></linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd8c3"/><stop offset=".52" stop-color="#ffc1ad"/><stop offset="1" stop-color="#f3a78f"/></linearGradient>
+    <radialGradient id="sun" cx="50%" cy="45%" r="52%"><stop stop-color="#fff4c5"/><stop offset=".5" stop-color="#ffd75b"/><stop offset="1" stop-color="#e99a2d"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
   </defs>
-  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
-  <g fill="none" stroke-linecap="round" filter="url(#glow)">
-    <path d="M115 250 230 130M165 305 265 95M85 155 300 245M930 70l100 125m-40-165 38 205m-135-90 210 35M1080 260l95-105m-30 150 10-205" stroke="#00f6ff" stroke-width="6"/>
-    <path d="M115 250 300 245M165 305 265 95M930 70l175 75m-115-115 78 205M1080 260l65-110" stroke="#ff2bbf" stroke-width="4"/>
-    <path d="M85 155 265 95M893 145l137 50m50 65 95-105" stroke="#ffe600" stroke-width="3"/>
+  <rect width="1280" height="420" rx="28" fill="url(#sky)"/>
+  <circle cx="102" cy="94" r="112" fill="#ffefc3" opacity=".54"/>
+  <circle cx="1162" cy="360" r="190" fill="#e89562" opacity=".28"/>
+  <g opacity=".7" filter="url(#soft)">
+    <circle cx="650" cy="202" r="115" fill="#ffe16c"/>
+    <circle cx="650" cy="202" r="75" fill="#fff6cf"/>
   </g>
-  <g font-family="Arial, sans-serif" text-anchor="middle">
-    <text x="640" y="145" fill="#ffe600" font-size="22" font-weight="700" letter-spacing="7">✦ MUTANT DEVELOPER FILE ✦</text>
-    <text x="640" y="218" fill="#fff" font-size="64" font-weight="800" letter-spacing="3">JUBILEE MODE</text>
-    <text x="640" y="270" fill="#00f6ff" font-size="24" letter-spacing="5">CODE IN COLOR · SHIP WITH SPARKS</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115 285C205 210 213 115 340 84M156 343C251 255 358 278 421 147M79 191c133 10 194 78 330 63" stroke="#693c63" stroke-width="12"/>
+    <path d="M116 285C205 210 213 115 340 84M156 343C251 255 358 278 421 147M79 191c133 10 194 78 330 63" stroke="#f7bd31" stroke-width="6"/>
+    <path d="M1140 84c-105 50-130 136-236 160m286-59c-117 9-181 71-297 57m227 100c-87-76-183-66-260-169" stroke="#66375e" stroke-width="12"/>
+    <path d="M1140 84c-105 50-130 136-236 160m286-59c-117 9-181 71-297 57m227 100c-87-76-183-66-260-169" stroke="#d99a39" stroke-width="6"/>
+  </g>
+  <g fill="#fff7e8" stroke="#693c63" stroke-width="4">
+    <path d="m264 92 10 23 25 2-19 16 6 25-22-13-22 13 6-25-19-16 25-2z"/>
+    <path d="m1020 289 10 23 25 2-19 16 6 25-22-13-22 13 6-25-19-16 25-2z"/>
+    <path d="m167 177 6 13 14 1-11 9 4 14-13-8-13 8 4-14-11-9 14-1z"/>
+    <path d="m1101 134 6 13 14 1-11 9 4 14-13-8-13 8 4-14-11-9 14-1z"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="640" y="142" fill="#693c63" font-size="20" font-weight="700" letter-spacing="6">WELCOME TO THE SUNNY SIDE OF CODE</text>
+    <text x="640" y="220" fill="#3a263c" font-size="60" font-weight="800">JUBILEE MODE</text>
+    <text x="640" y="270" fill="#693c63" font-size="23" letter-spacing="3">WARM SPARKS · KIND CHAOS · CURIOUS BUILDS</text>
   </g>
 </svg>
